@@ -14,7 +14,7 @@ This repository contains a tool developed to help into the research conducted fo
 written by David Rodríguez, under the supervision of Sergio Pastrana.
 
 ## License
-This thesis is made available under the GNU General Public License v3.0. A copy of the full license is available in the [LICENSE](/LICENSE) file.
+This tool is made available under the GNU General Public License v3.0. A copy of the full license is available in the [LICENSE](/LICENSE) file.
 
 ## Installation
 The tool is developed with Python version 3.8 and required dependencies could be installed through the command:
